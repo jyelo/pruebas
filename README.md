@@ -1,2 +1,2 @@
 # pruebas
-Pruebas para Pro Git
+Pruebas para el libro Pro Git
